@@ -1,0 +1,35 @@
+_repo: Luxurious-Bathing_62531
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ellis, Tristram J.
+    alias: Ellis, Tristram James
+    birthdate: 1844
+    deathdate: 1922
+    gutenberg_agent_id: '51992'
+    url: http://www.gutenberg.org/2009/agents/51992
+    wikipedia: https://en.wikipedia.org/wiki/Tristram_Ellis
+creator:
+  author:
+    agent_name: Tuer, Andrew White
+    alias: Tuer, Andrew W. (Andrew White)
+    birthdate: 1838
+    deathdate: 1900
+    gutenberg_agent_id: '51647'
+    url: http://www.gutenberg.org/2009/agents/51647
+    wikipedia: https://en.wikipedia.org/wiki/Andrew_White_Tuer
+description: ''
+gutenberg_issued: '2020-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Baths'
+- !lcc 'RA'
+- GITenberg
+title: Luxurious Bathing
+url: http://www.gutenberg.org/ebooks/62531
